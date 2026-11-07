@@ -1,0 +1,118 @@
+{
+  "iglesia": "Ebenezer",
+  "guia_numero": 99,
+  "bloques": [
+    {
+      "orden": 1,
+      "tipo": "sermon",
+      "resena": [
+        "Párrafo de prueba.",
+        "Párrafo de prueba."
+      ],
+      "crucigrama": {
+        "tema": "Prueba",
+        "rows": 20,
+        "cols": 20,
+        "max_attempts": 300,
+        "words": [
+          {
+            "word": "FE",
+            "clue": "Confianza en Dios"
+          },
+          {
+            "word": "GRACIA",
+            "clue": "Favor inmerecido"
+          },
+          {
+            "word": "AMOR",
+            "clue": "Vínculo perfecto"
+          },
+          {
+            "word": "PAZ",
+            "clue": "Tranquilidad del alma"
+          }
+        ]
+      },
+      "pastor": "Josías Sevillano",
+      "titulo": "Prueba"
+    },
+    {
+      "orden": 2,
+      "tipo": "doctrina_fundamental",
+      "resena": [
+        "Prueba doctrina"
+      ],
+      "crucigrama": {
+        "tema": "Prueba doctrina",
+        "rows": 20,
+        "cols": 20,
+        "max_attempts": 300,
+        "words": [
+          {
+            "word": "FE",
+            "clue": "Confianza en Dios"
+          },
+          {
+            "word": "GRACIA",
+            "clue": "Favor inmerecido"
+          },
+          {
+            "word": "AMOR",
+            "clue": "Vínculo perfecto"
+          },
+          {
+            "word": "PAZ",
+            "clue": "Tranquilidad del alma"
+          }
+        ]
+      }
+    },
+    {
+      "orden": 3,
+      "tipo": "libro_biblico",
+      "resena": [
+        "Párrafo de prueba"
+      ],
+      "crucigrama": {
+        "tema": "Prueba de libro",
+        "rows": 20,
+        "cols": 20,
+        "max_attempts": 300,
+        "words": [
+          {
+            "word": "FE",
+            "clue": "Confianza en Dios"
+          },
+          {
+            "word": "GRACIA",
+            "clue": "Favor inmerecido"
+          },
+          {
+            "word": "AMOR",
+            "clue": "Vínculo perfecto"
+          },
+          {
+            "word": "PAZ",
+            "clue": "Tranquilidad del alma"
+          }
+        ]
+      }
+    },
+    {
+      "orden": 4,
+      "tipo": "boletin",
+      "titulo": "Boletín de prueba",
+      "introduccion": "",
+      "actividades": [
+        {
+          "titulo": "Pronto arrancamos con todos los hierros.",
+          "fecha": "",
+          "hora": "",
+          "descripcion": "",
+          "imagen": null,
+          "video": null
+        }
+      ]
+    }
+  ]
+}
